@@ -1,6 +1,6 @@
 ## Voting app
 
-Simple voting app developed with Python and django.
+Simple voting app developed with Python and django. There are comments for the sake of learning.
 
 ### Run application
 
