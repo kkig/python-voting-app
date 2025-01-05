@@ -1,3 +1,7 @@
+"""
+Old code left as comments for learning purposes.
+"""
+
 # from django.http import Http404
 from django.db.models import F
 from django.shortcuts import render, get_object_or_404
